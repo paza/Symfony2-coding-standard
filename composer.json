@@ -1,0 +1,17 @@
+{
+    "name": "paza/Symfony2-coding-standard",
+    "description": "A code standard to check against the Symfony coding standards.",
+    "authors": [
+        {
+            "name": "aabdou",
+            "email": "amisaad@gmail.com"
+        },
+        {
+            "name": "pazaaa",
+            "email": "pazaaa@gmail.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "dev-master",
+    }
+}
